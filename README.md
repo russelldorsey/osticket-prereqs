@@ -95,7 +95,7 @@ Open the Start menu, search for File Explorer, and open it. Click This PC, then 
 <img width="1120" height="630" alt="Screenshot 2026-02-21 143107" src="https://github.com/user-attachments/assets/9af3925d-7891-4fcc-8c97-22650b544585" />
 </p>
 <p>
-Locate the PHP 7.3.8 zip file and right-click it, then select Extract All. Before clicking Extract, choose Browse to select a destination for the files. Search for and select the C:\PHP folder that you created earlier. Once the correct folder is selected, click Extract to unzip the files into the C:\PHP directory.
+Open the osTicket-Installation-Files folder on your desktop and locate the zip file named php-7.3.8-nts-Win32-VC15-x86 and right-click it, then select Extract All. Before clicking Extract, choose Browse to select a destination for the files. Search for and select the C:\PHP folder that you created earlier. Once the correct folder is selected, click Extract to unzip the files into the C:\PHP directory.
 </p>
 <br />
 
