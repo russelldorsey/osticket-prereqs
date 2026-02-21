@@ -127,10 +127,10 @@ Register PHP from within IIS. From the osTicket-vm Home screen double click PHP 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="957" height="1036" alt="Screenshot 2026-02-21 155601" src="https://github.com/user-attachments/assets/3e6e2908-0767-461e-acb7-da4899666dfd" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To reload IIS, go to the osTicket-vm Home screen. On the left side under Connections, right-click osTicket (osTicket-vm-labuser) and select Stop. Wait a few seconds, then right-click it again and select Start. You can also restart IIS from the right side of the screen under Actions. In the Manage Server section, click Stop, wait a few seconds, and then click Start to restart the server.
 </p>
 <br />
 
