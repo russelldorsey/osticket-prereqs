@@ -26,10 +26,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Install/Enable IIS in Windows with CGI
 - Install PHP Manager and rewrite amd64 files
 - Create the directory C:\PHP
+- Unzip PHP 7.3.8 into the directory C:\PHP
+- Install VC_redist.x86 and MySQL 5.5 62 files
 - Open IIS as an Admin
 - Register PHP from within IIS
 - Install osTicket v1.15.8
-- Install HeidiSQL
 - Continue Setting Up osTicket
 - Installation Complete
 - Clean Up
@@ -91,10 +92,10 @@ Open the Start menu, search for File Explorer, and open it. Click This PC, then 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1120" height="630" alt="Screenshot 2026-02-21 143107" src="https://github.com/user-attachments/assets/9af3925d-7891-4fcc-8c97-22650b544585" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Locate the PHP 7.3.8 zip file and right-click it, then select Extract All. Before clicking Extract, choose Browse to select a destination for the files. Search for and select the C:\PHP folder that you created earlier. Once the correct folder is selected, click Extract to unzip the files into the C:\PHP directory.
 </p>
 <br />
 
