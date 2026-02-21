@@ -49,7 +49,7 @@ For Region, select the location closest to you.
 
 Under Image, select Windows 10 Version 22H2 x64 Gen2. This option should allow you to choose the D2s_v3 size, which includes 2 vCPUs and 8 GiB of memory.
 
-If that size is not available, try selecting a different Region or Image until you find a virtual machine size similar to 2 vCPUs and 8 GiB of memory.
+If that size is not available, try selecting a different Region and/or Image until you find a virtual machine size similar to 2 vCPUs and 8 GiB of memory.
 
 Next, create a username and password for the virtual machine. You may choose any username and password you prefer.
 
