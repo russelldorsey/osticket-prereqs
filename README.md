@@ -110,10 +110,10 @@ Next, in the same folder, find mysql-5.5.62-win32.msi and double-click it to beg
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="784" height="640" alt="Screenshot 2026-02-21 151301" src="https://github.com/user-attachments/assets/0254b1c2-f721-4983-af47-150eb0bbda79" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Open the Start menu and search for IIS. When it appears in the search results, right-click it and select Run as administrator or on the right side select the same Run as administrator. This will open the IIS Manager and display the osTicket-vm Home screen.
 </p>
 <br />
 
