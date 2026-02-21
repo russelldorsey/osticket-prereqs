@@ -100,10 +100,12 @@ Locate the PHP 7.3.8 zip file and right-click it, then select Extract All. Befor
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1123" height="633" alt="Screenshot 2026-02-21 145034" src="https://github.com/user-attachments/assets/a83c9ec3-35a5-47e4-af93-0c723cb7af14" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Open the osTicket-Installation-Files folder on your desktop and locate the file named VC_redist.x86.exe. Double-click the file and follow the prompts to complete the installation.
+
+Next, in the same folder, find mysql-5.5.62-win32.msi and double-click it to begin installing MySQL 5.5.62. Choose the Typical Setup option during installation. After the installation finishes, make sure to select Launch Configuration Wizard. In the Configuration Wizard, choose Standard Configuration. When prompted, set the username to root and the password to root, then complete the setup. Normally, you would create a more secure username and password. However, for practice purposes in osTicket, using root makes it easier to remember.
 </p>
 <br />
 
