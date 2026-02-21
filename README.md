@@ -66,7 +66,9 @@ Your virtual machine will now begin deploying.
 <img width="1120" height="661" alt="Screenshot 2026-02-21 130853" src="https://github.com/user-attachments/assets/b6516249-c058-4926-b951-79107f78e870" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Log in to your virtual machine (osticket-vm) using Remote Desktop. Once you are inside the VM, download the osTicket-Installation-Files.zip file and save it to your desktop. After the download is complete, right-click the file and select Extract All to unzip it. When finished, you should see a folder on your desktop named osTicket-Installation-Files. This folder contains the files you will use to install osTicket and its required dependencies.
+
+Next, install and enable IIS with CGI. Open the Control Panel and select Programs, then click Turn Windows features on or off. Expand Internet Information Services, then expand World Wide Web Services, followed by Application Development Features. Check the box labeled CGI, then click OK to complete the installation.
 </p>
 <br />
 
