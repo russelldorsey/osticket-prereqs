@@ -22,11 +22,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Create an Azure Virtual Machine Windows 10
+- Install/Enable IIS in Windows with CGI
+- Create the directory C:\PHP
+- Open IIS as an Admin
+- Register PHP from within IIS
+- Install osTicket v1.15.8
+- Install HeidiSQL
+- Continue Setting Up osTicket
+- Installation Complete
+- Clean Up
 
 <h2>Installation Steps</h2>
 
