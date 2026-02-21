@@ -36,7 +36,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="2191" height="1410" alt="Screenshot 2026-02-21 115911" src="https://github.com/user-attachments/assets/c4a0499f-dff4-4bda-be7f-6b6518346dc2" />
 </p>
 <p>
 First, create a Microsoft Azure account if you do not already have one. Once your account is set up, sign in and use the search bar at the top of the portal to search for Virtual Machines. Select Virtual Machines, then click Create.
