@@ -24,10 +24,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Create an Azure Virtual Machine Windows 10
 - Install/Enable IIS in Windows with CGI
-- Install PHP Manager and rewrite amd64 files
+- Install files PHP Manager and rewrite amd64
 - Create the directory C:\PHP
 - Unzip PHP 7.3.8 into the directory C:\PHP
-- Install VC_redist.x86 and MySQL 5.5 62 files
+- Install files VC_redist.x86 and MySQL 5.5 62
 - Open IIS as an Admin
 - Register PHP from within IIS
 - Install osTicket v1.15.8
