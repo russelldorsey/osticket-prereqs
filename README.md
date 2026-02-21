@@ -73,7 +73,7 @@ Next, install and enable IIS with CGI. Open the Control Panel and select Program
 <br />
 
 <p>
-<img width="1121" height="663" alt="Screenshot 2026-02-21 132143" src="https://github.com/user-attachments/assets/33b90382-0e8e-416d-a332-42c5873ac5c5" />
+<img width="1123" height="631" alt="Screenshot 2026-02-21 133637" src="https://github.com/user-attachments/assets/69fc3986-3eaf-43f9-b6fd-27aab4e57761" />
 </p>
 <p>
 Open the osTicket-Installation-Files folder on your desktop. First, locate the file named PHPManagerForIIS_V1.5.0.msi and double-click it to begin the installation. Follow the prompts to complete the installation of PHP Manager for IIS.
