@@ -62,7 +62,7 @@ Your virtual machine will now begin deploying.
 <br />
 
 <p>
-<img width="1170" height="693" alt="Screenshot 2026-02-21 125712" src="https://github.com/user-attachments/assets/18f08bb1-1171-462d-8abd-73678ebc7add" />
+<img width="1120" height="661" alt="Screenshot 2026-02-21 130853" src="https://github.com/user-attachments/assets/b6516249-c058-4926-b951-79107f78e870" />
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
