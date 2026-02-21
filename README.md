@@ -24,6 +24,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Create an Azure Virtual Machine Windows 10
 - Install/Enable IIS in Windows with CGI
+- Install PHP Manager and rewrite amd64 files
 - Create the directory C:\PHP
 - Open IIS as an Admin
 - Register PHP from within IIS
