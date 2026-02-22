@@ -30,7 +30,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Install files VC_redist.x86 and MySQL 5.5 62
 - Open IIS as an Admin
 - Register PHP from within IIS
+- Reload IIS
 - Install osTicket v1.15.8
+- Reload IIS
 - Continue Setting Up osTicket
 - Installation Complete
 - Clean Up
