@@ -34,6 +34,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Install osTicket v1.15.8
 - Reload IIS Manager
 - Enable osTicket extensions
+- Rename ost-config.php
 - Installation Complete
 - Clean Up
 
@@ -169,10 +170,10 @@ Notice that some extensions are not enabled. Return to IIS Manager, expand the S
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1145" height="630" alt="Screenshot 2026-02-26 122915" src="https://github.com/user-attachments/assets/f6375664-1694-4fc4-8dc7-f74e9ccaeff2" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Open File Explorer from the Start menu if it is not already open. Select the Windows (C:) drive, then open the inetpub folder, then the wwwroot folder, and finally the osTicket folder. Next, open the include folder and scroll down until you find ost-sampleconfig.php. Click on the file, right-click it, and choose Rename. Change the file name to ost-config.php making sure it is spelled exactly correct. You can either retype the name completely or simply remove the word “sample” from the existing file name.
 </p>
 <br />
 
