@@ -173,7 +173,7 @@ Notice that some extensions are not enabled. Return to IIS Manager, expand the S
 <img width="1145" height="630" alt="Screenshot 2026-02-26 122915" src="https://github.com/user-attachments/assets/f6375664-1694-4fc4-8dc7-f74e9ccaeff2" />
 </p>
 <p>
-Open File Explorer from the Start menu if it is not already open. Select the Windows (C:) drive, then open the inetpub folder, then the wwwroot folder, and finally the osTicket folder. Next, open the include folder and scroll down until you find ost-sampleconfig.php. Click on the file, right-click it, and choose Rename. Change the file name to ost-config.php making sure it is spelled exactly correct. You can either retype the name completely or simply remove the word “sample” from the existing file name.
+Open File Explorer from the Start menu if it is not already open. Select the Windows (C:) drive, then open the inetpub folder, followed by the wwwroot folder, and then the osTicket folder. Next, open the include folder and scroll down until you find ost-sampleconfig.php. Click on the file, right-click it, and choose Rename. Change the file name to ost-config.php making sure it is spelled exactly correct. You can either retype the name completely or simply remove the word “sample” from the existing file name.
 </p>
 <br />
 
