@@ -186,10 +186,12 @@ With the include folder still open, locate ost-config.php and right-click on it,
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1258" height="796" alt="Screenshot 2026-02-26 132401" src="https://github.com/user-attachments/assets/26d3b8d6-b937-4d16-bcb8-cfbda22072d6" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In the same Advanced Security Settings window, click Add, then choose Select a principal. In the Select User or Group window, type Everyone in the Enter the object name to select box and click Check Names, then click OK. In the Permission Entry for ost-config.php window, select Full Control and click OK. Back in the Advanced Security Settings window, confirm that the permission entry shows Type: Allow, Principal: Everyone, Access: Full control, and Inherited from: None. If everything appears correctly, click Apply, then OK to close all open windows.
+
+Keep in mind that in a professional work environment, the Everyone group would typically not be granted full control due to security best practices. However, it is used here strictly to install and practice with osTicket on your own virtual machine.
 </p>
 <br />
 
