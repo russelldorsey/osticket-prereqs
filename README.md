@@ -97,7 +97,7 @@ Open the Start menu, search for File Explorer, and open it. Click This PC, then 
 <img width="1120" height="630" alt="Screenshot 2026-02-21 143107" src="https://github.com/user-attachments/assets/9af3925d-7891-4fcc-8c97-22650b544585" />
 </p>
 <p>
-Open the osTicket-Installation-Files folder on your desktop and locate the zip file named php-7.3.8-nts-Win32-VC15-x86 and right-click it, then select Extract All. Before clicking Extract, choose Browse to select a destination for the files. Search for and select the C:\PHP folder that you created earlier. Once the correct folder is selected, click Extract to unzip the files into the C:\PHP directory.
+Open the osTicket-Installation-Files folder on your desktop, locate the zip file named php-7.3.8-nts-Win32-VC15-x86 and right-click it, then select Extract All. Before clicking Extract, choose Browse to select a destination for the files. Search for and select the C:\PHP folder that you created earlier. Once the correct folder is selected, click Extract to unzip the files into the C:\PHP directory.
 </p>
 <br />
 
@@ -123,7 +123,7 @@ Open the Start menu and search for IIS. When it appears in the search results, r
 <img width="955" height="1026" alt="Screenshot 2026-02-21 153027" src="https://github.com/user-attachments/assets/93c1aa90-a057-4d9c-ad56-90618fa5cdd0" />
 </p>
 <p>
-Register PHP from within IIS. From the osTicket-vm Home screen double click PHP Manager. Then select Register new PHP version. In the Register new PHP version window, click the 3 dots. Then double click the PHP folder and double click the php-cgi application and select OK.
+Register PHP from within IIS Manager. From the osTicket-vm Home screen, double-click PHP Manager. Then select Register new PHP version. In the Register new PHP version window, click the 3 dots. Then double-click the PHP folder, double-click the php-cgi application, and select OK.
 
 </p>
 <br />
@@ -132,7 +132,7 @@ Register PHP from within IIS. From the osTicket-vm Home screen double click PHP 
 <img width="957" height="1036" alt="Screenshot 2026-02-21 155601" src="https://github.com/user-attachments/assets/3e6e2908-0767-461e-acb7-da4899666dfd" />
 </p>
 <p>
-To reload IIS, go to the osTicket-vm Home screen. On the left side under Connections, right-click osTicket (osTicket-vm-labuser) and select Stop. Wait a few seconds, then right-click it again and select Start. You can also restart IIS from the right side of the screen under Actions. In the Manage Server section, click Stop, wait a few seconds, and then click Start to restart the server.
+To reload IIS Manager, go to the osTicket-vm Home screen. On the left side under Connections, right-click osTicket (osTicket-vm-labuser) and select Stop. Wait a few seconds, then right-click it again and select Start. You can also restart IIS Manager from the right side of the screen under Actions. In the Manage Server section, click Stop, wait a few seconds, and then click Start to restart the server.
 </p>
 <br />
 
@@ -140,7 +140,7 @@ To reload IIS, go to the osTicket-vm Home screen. On the left side under Connect
 <img width="1122" height="810" alt="Screenshot 2026-02-21 161624" src="https://github.com/user-attachments/assets/c9b4137c-0ce5-4fe1-b0be-a7311fa36bdf" />
 </p>
 <p>
-To install osTicket v1.15.8, open the osTicket-Installation-Files folder and locate the zip file named osTicket-v1.15.8.zip. Right-click the zip file and select Extract All to unzip it. After the files are extracted, open the extracted folder and copy the upload folder. Next, navigate to C:\inetpub\wwwroot and paste the upload folder into that directory. Once it has been pasted, rename the upload folder to osTicket. Be sure to type osTicket exactly as shown, with no spaces and the correct capitalization.
+To install osTicket v1.15.8, open the osTicket-Installation-Files folder and locate the zip file named osTicket-v1.15.8.zip. Right-click the zip file and select Extract All to unzip it. After the files are extracted, open the extracted folder and copy the upload folder into it. Next, navigate to C:\inetpub\wwwroot and paste the upload folder into that directory. Once it has been pasted, rename the upload folder to osTicket. Be sure to type osTicket exactly as shown, with no spaces and the correct capitalization.
 </p>
 <br />
 
@@ -148,7 +148,7 @@ To install osTicket v1.15.8, open the osTicket-Installation-Files folder and loc
 <img width="957" height="1036" alt="Screenshot 2026-02-21 155601" src="https://github.com/user-attachments/assets/02b93031-3781-4dc2-9f37-ad1073008149" />
 </p>
 <p>
-Reload IIS again using the same following steps. Go to the osTicket-vm Home screen. On the left side under Connections, right-click osTicket (osTicket-vm-labuser) and select Stop. Wait a few seconds, then right-click it again and select Start. You can also restart IIS from the right side of the screen under Actions. In the Manage Server section, click Stop, wait a few seconds, and then click Start to restart the server.
+Reload IIS Manager again using the same following steps. Go to the osTicket-vm Home screen. On the left side under Connections, right-click osTicket (osTicket-vm-labuser) and select Stop. Wait a few seconds, then right-click it again and select Start. You can also restart IIS Manager from the right side of the screen under Actions. In the Manage Server section, click Stop, wait a few seconds, and then click Start to restart the server.
 </p>
 <br />
 
