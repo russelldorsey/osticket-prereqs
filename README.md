@@ -178,10 +178,10 @@ Open File Explorer from the Start menu if it is not already open. Select the Win
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1262" height="797" alt="Screenshot 2026-02-26 131818" src="https://github.com/user-attachments/assets/ff1afa0d-189f-42e3-8c35-e1e160f7675a" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+With the include folder still open, locate ost-config.php and right-click on it, then select Properties. Click on the Security tab and choose Advanced. In the Advanced Security Settings window, click Disable inheritance, then select Remove all inherited permissions from this object to remove the existing inherited permissions.
 </p>
 <br />
 
