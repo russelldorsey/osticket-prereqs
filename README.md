@@ -36,6 +36,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Enable osTicket extensions
 - Rename ost-config.php
 - Assign Permissions ost-config.php
+- Setting Up osTicket
 - Installation Complete
 - Clean Up
 
@@ -193,6 +194,26 @@ With the include folder still open, locate ost-config.php and right-click on it,
 In the same Advanced Security Settings window, click Add, then choose Select a principal. In the Select User or Group window, type Everyone in the Enter the object name to select box and click Check Names, then click OK. In the Permission Entry for ost-config.php window, select Full Control and click OK. Back in the Advanced Security Settings window, confirm that the permission entry shows Type: Allow, Principal: Everyone, Access: Full control, and Inherited from: None. If everything appears correctly, click Apply, then OK to close all open windows.
 
 Keep in mind that in a professional work environment, the Everyone group would typically not be granted full control due to security best practices. However, it is used here strictly to install and practice with osTicket on your own virtual machine.
+</p>
+<br />
+
+<p>
+<img width="955" height="1028" alt="Screenshot 2026-02-26 141807" src="https://github.com/user-attachments/assets/6aa87e02-d18a-4e9f-8c04-34db9da89dbd" />
+</p>
+<p>
+Return to the osTicket Installer page in Microsoft Edge and click Continue. Under System Settings, enter My Help Desk in the Helpdesk Name field, or choose any name you prefer. In the Default Email field, enter a personal email address that you have access to.
+
+Under Admin User, fill in the First Name and Last Name fields using your name or any name you choose. In the Email Address field, enter a different email address than the one used in the Default Email field above. In the Username field, type adminuser, and in the Password and Retype Password fields, enter Password1 or another simple password you can easily remember.
+
+Before clicking Install Now at the bottom of the screen, stop and complete the next step first.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
