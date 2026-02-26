@@ -141,7 +141,7 @@ To reload IIS Manager, go to the osTicket-vm Home screen. On the left side under
 <img width="1122" height="810" alt="Screenshot 2026-02-21 161624" src="https://github.com/user-attachments/assets/c9b4137c-0ce5-4fe1-b0be-a7311fa36bdf" />
 </p>
 <p>
-To install osTicket v1.15.8, open the osTicket-Installation-Files folder and locate the zip file named osTicket-v1.15.8.zip. Right-click the zip file and select Extract All to unzip it. After the files are extracted, open the extracted folder and copy the upload folder into it. Next, navigate to C:\inetpub\wwwroot and paste the upload folder into that directory. Once it has been pasted, rename the upload folder to osTicket. Be sure to type osTicket exactly as shown, with no spaces and the correct capitalization.
+To install osTicket v1.15.8, open the osTicket-Installation-Files folder and locate the zip file named osTicket-v1.15.8.zip. Right-click the zip file and select Extract All to unzip it. After the files are extracted, open the extracted folder and copy the upload folder into it. Next, navigate to C:\inetpub\wwwroot and paste the upload folder into that directory. Once it has been pasted, click on the folder and right-click it, and choose Rename. Make sure to rename the upload folder to osTicket. Be sure to type osTicket exactly as shown, with no spaces and the correct capitalization.
 </p>
 <br />
 
