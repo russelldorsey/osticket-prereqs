@@ -28,12 +28,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Create the directory C:\PHP
 - Unzip PHP 7.3.8 into the directory C:\PHP
 - Install files VC_redist.x86 and MySQL 5.5 62
-- Open IIS as an Admin
-- Register PHP from within IIS
-- Reload IIS
+- Open IIS Manager as an Admin
+- Register PHP from within IIS Manager
+- Reload IIS Manager
 - Install osTicket v1.15.8
-- Reload IIS
-- Continue Setting Up osTicket
+- Reload IIS Manager
+- Enable osTicket extensions
 - Installation Complete
 - Clean Up
 
