@@ -35,6 +35,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Reload IIS Manager
 - Enable osTicket extensions
 - Rename ost-config.php
+- Assign Permissions ost-config.php
 - Installation Complete
 - Clean Up
 
