@@ -161,7 +161,7 @@ Next, load the osTicket site. Open IIS Manager and, under Connections, expand th
 <br />
 
 <p>
-<img width="957" height="1038" alt="Screenshot 2026-02-26 113827" src="https://github.com/user-attachments/assets/ef316101-c064-4ecd-abaa-9eb28f1904b6" />
+<img width="1916" height="1032" alt="Screenshot 2026-02-26 114923" src="https://github.com/user-attachments/assets/73b4df55-cb6a-4a0b-b8a5-5521d79eafb6" />
 </p>
 <p>
 Notice that some extensions are not enabled. Return to IIS Manager, expand the Sites folder, then expand the Default Web Site folder, and click on osTicket. Double-click PHP Manager, then click on Enable or disable an extension. On the right side of ISS Manager under Actions, click Enable for the following extensions: php_imap.dll, php_intl.dll, and php_opcache.dll. After enabling these extensions, refresh the osTicket Installer site in Microsoft Edge and observe the changes.
