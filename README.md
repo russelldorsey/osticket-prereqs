@@ -221,9 +221,26 @@ When the Session Manager window opens, click New. Under the Settings tab, enter 
 <br />
 
 <p>
+<img width="955" height="1035" alt="Screenshot 2026-02-26 184011" src="https://github.com/user-attachments/assets/d77063f3-75bb-41ae-befd-78e4b1e483c9" />
+</p>
+<p>
+Return to the osTicket Installer page in Microsoft Edge. Under Database Settings, enter osTicket exactly as spelled in the MySQL Database field. In the MySQL Username field, type root, and in the MySQL Password field, also type root. Then click Install Now. The osTicket Installer page should refresh and display the message, “Congratulations!". osTicket is now successfully installed on your virtual machine.
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
