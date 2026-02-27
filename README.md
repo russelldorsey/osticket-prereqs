@@ -39,7 +39,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Setting Up osTicket
 - Install HeidiSQL
 - Setting up MySQL/osTicket Installed
-- Clean Up
 
 <h2>Installation Steps</h2>
 
