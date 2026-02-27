@@ -205,15 +205,17 @@ Return to the osTicket Installer page in Microsoft Edge and click Continue. Unde
 
 Under Admin User, fill in the First Name and Last Name fields using your name or any name you choose. In the Email Address field, enter a different email address than the one used in the Default Email field above. In the Username field, type adminuser, and in the Password and Retype Password fields, enter Password1 or another simple password you can easily remember.
 
-Before clicking Install Now at the bottom of the screen, stop and complete the next step first.
+Stop and complete the next two steps before clicking Install Now at the bottom of the screen.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1119" height="631" alt="Screenshot 2026-02-26 181936" src="https://github.com/user-attachments/assets/4ac04ed4-5d5a-4c73-ad6b-81220a2dcc42" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Open File Explorer from the Start menu if it is not already open. In File Explorer, select Desktop and double-click the osTicket-Installation-Files folder. Then double-click HeidiSQL_12.3.0.6589_Setup to begin the installation. Choose I accept the agreement, click Next, and continue clicking Next until you reach the Install button. Click Install, then select Finish, and choose Skip when prompted.
+
+When the Session Manager window opens, click New. Under the Settings tab, enter root in the User field and root in the Password field, then click Open. After connecting, right-click Unnamed, select Create new, and then click Database. In the Create database window, type osTicket exactly as spelled in the Name field, and click OK.
 </p>
 <br />
 
