@@ -37,6 +37,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Rename ost-config.php
 - Assign Permissions ost-config.php
 - Setting Up osTicket
+- Install HeidiSQL
 - Installation Complete
 - Clean Up
 
